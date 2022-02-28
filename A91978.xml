@@ -1,0 +1,711 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands Threnodie. Or A briefe and homely discoverie of some jealousies and grievances, under which the kingdom at present groaneth; affectionately tendred by Lady Anglia, to all her dear children, the lovers of their country, and well-willers to truth and peace : especially to her worthy sons, the members of both Houses of Parliament.</title>
+            <author>Ross, Alexander, 1591-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91978</idno>
+            <idno type="STC">Wing R1951</idno>
+            <idno type="STC">Thomason E431_22</idno>
+            <idno type="STC">ESTC R206117</idno>
+            <idno type="EEBO-CITATION">99865297</idno>
+            <idno type="PROQUEST">99865297</idno>
+            <idno type="VID">161516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161516)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands Threnodie. Or A briefe and homely discoverie of some jealousies and grievances, under which the kingdom at present groaneth; affectionately tendred by Lady Anglia, to all her dear children, the lovers of their country, and well-willers to truth and peace : especially to her worthy sons, the members of both Houses of Parliament.</title>
+                  <author>Ross, Alexander, 1591-1654.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A poem, signed at end: A.R. (i.e. Alexander Ross).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "March 10th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:161516:1" rendition="simple:additions"/>
+            <head>Englands Threnodie.</head>
+            <head type="sub">OR A briefe and homely <hi>Diſcoverie</hi> of ſome jealouſies and grievances, under which the kingdom at preſent groaneth; Affectionately tendred by Lady <hi>Anglia,</hi> to all her dear children, the lovers of their Country, and Well-willers to <hi>Truth</hi> and <hi>Peace:</hi> Eſpecially to her worthy Sons, the Members of both Houſes of Parliament.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>march 10<hi rend="sup">th</hi> 1647</add>
+                  </date>
+               </dateline>
+            </opener>
+            <lg>
+               <l>MY dear Inhabitants ſhut not your eyes;</l>
+               <l>But look upon the dangers manifold</l>
+               <l>Which do occaſion theſe my wofull cries.</l>
+               <l>I having born as long as well I could,</l>
+            </lg>
+            <lg>
+               <l>Am forc'd to vent the cauſes of my grief,</l>
+               <l>To all that may afford the leaſt relief.</l>
+            </lg>
+            <lg>
+               <l>Expect no curious order, lofty ſtile,</l>
+               <l>Or feigned fancies to adorn my words.</l>
+               <l>Diſaſtrous ſorrows (ſtriving all the while</l>
+               <l>Which ſhall cut deepeſt) cauſe ſuch harſh diſcords</l>
+            </lg>
+            <lg>
+               <l>Amid my muſick; that I greatly fear,</l>
+               <l>Few will have patience my complaint to hear.</l>
+            </lg>
+            <lg>
+               <l>In homely dreſs my lines ſhall be attir'd,</l>
+               <l>'Tis for thy ſake (O Countryman) I write:</l>
+               <l>I would be underſtood, and not admir'd</l>
+               <l>For <hi>Latine-Engliſh</hi> Phraſes; at whoſe ſight</l>
+            </lg>
+            <lg>
+               <l>Thou may'ſt aſtoniſh'd be, but profit ſmall</l>
+               <l>Can be by thee attain'd, if ought at all.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:161516:2"/>
+               <l>The naked truth without poetick skill</l>
+               <l>Of Adventitious colours I ſhall paint;</l>
+               <l>The <hi>Pagan Muſes</hi> ſhall not guide my quill,</l>
+               <l>No <hi>Heliconian</hi> ſiſter I'l acquaint</l>
+            </lg>
+            <lg>
+               <l>With my deſign: but leave them to ſuch men</l>
+               <l>As to delight their Readers fables pen.</l>
+            </lg>
+            <lg>
+               <l>I'l not be tedious; give me leave t' be plain,</l>
+               <l>I <hi>England,</hi> once the glory of all Lands;</l>
+               <l>(Even ſince the time that <hi>Charles</hi> began his Raign</l>
+               <l>For learning, godlineſs, and warlike hands;</l>
+            </lg>
+            <lg>
+               <l>(To which may added be ſuch wealth and ſtor</l>
+               <l>That ſcarcely could I wiſh or look for more:)</l>
+            </lg>
+            <lg>
+               <l>Do on a ſudden feel ſuch alteration,</l>
+               <l>As if my ſinews ſhrunk, and vein-blood dry'd;</l>
+               <l>Nothing almoſt retains his wonted faſhion,</l>
+               <l>All goodneſs in a manner's laid aſide.</l>
+            </lg>
+            <lg>
+               <l>Such wickedneſs and looſneſs doth abound,</l>
+               <l>As in my neighbour-lands can ſcarce be found.</l>
+            </lg>
+            <lg>
+               <l>So well a temper'd, happy government</l>
+               <l>Of <hi>King,</hi> with <hi>Peers</hi> and <hi>Commons,</hi> I enjoy'd</l>
+               <l>(Untill ſiniſter practiſes had rent</l>
+               <l>Theſe joynt aſunder) that none me annoy'd,</l>
+            </lg>
+            <lg>
+               <l>But ſome effectuall courſe was quickly ta'n</l>
+               <l>To diſappoint all ſuch as ſought my bane.</l>
+            </lg>
+            <lg>
+               <l>Although the Papiſts, weary of their yoke</l>
+               <l>Did oft aſſay the means to throw it by:</l>
+               <l>Yet all their ſtrength and cunning never broke</l>
+               <l>This three-fold cord wherewith I did them tie.</l>
+            </lg>
+            <lg>
+               <l>The Navy, cal'd <hi>Invincible,</hi> from <hi>Spain,</hi>
+               </l>
+               <l>With ſhame and loſs I thither ſent again,</l>
+            </lg>
+            <lg>
+               <l>The Powder-plot (unparalell'd I think</l>
+               <l>Throughout the world for wicked treachery)</l>
+               <l>Which brought my <hi>Parliament</hi> unto the brink</l>
+               <l>Of death: and all near to adverſity;</l>
+            </lg>
+            <lg>
+               <l>My God ith' nick of time, diſcovered,</l>
+               <l>And brought the miſchief on the workers head.</l>
+            </lg>
+            <lg>
+               <l>All inſurrections of rebellious men</l>
+               <l>The wiſdom of my Governors brought down:</l>
+               <l>When Anarchy was likely now and then</l>
+               <l>To get poſſeſſion, and abaſe the Crown:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jack Cade, John Wall, Wat Tyler,</hi> and <hi>Jack Straw</hi>
+               </l>
+               <l>With <hi>Wyat</hi> knew what 'tis to poſe my Law.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:161516:2"/>
+               <l>But now (alas) if any ſuch ariſe,</l>
+               <l>(Which may fall out ere long for ought I ſee)</l>
+               <l>What means is left to quaſh ſuch enemies,</l>
+               <l>Since mine amongſt themſelves ſo diſagree?</l>
+            </lg>
+            <lg>
+               <l>I quake as oft as I the dangers view</l>
+               <l>In which I ſtand, and know not how t'eſchew,</l>
+            </lg>
+            <lg>
+               <l>A vip'rous brood cal'd Cavaliers I bred,</l>
+               <l>Which ſuck'd my breſts; yet ſo unthankfull are,</l>
+               <l>That me they have not only tortured</l>
+               <l>With Wars and Taxes, never making ſpare,</l>
+            </lg>
+            <lg>
+               <l>But would expoſe me unto any ill,</l>
+               <l>If they thereby may but obtain their will.</l>
+            </lg>
+            <lg>
+               <l>Come <hi>French, Italian, Spaniard, Iriſh, Dane,</hi>
+               </l>
+               <l>(Yea almoſt devill) if he round-heads hate,</l>
+               <l>To them hee's welcom, he can have no ſtain</l>
+               <l>So horrid, but they'l have him for their mate.</l>
+            </lg>
+            <lg>
+               <l>Were now the <hi>Spaniſh</hi> Navy on the Sea,</l>
+               <l>How glad would theſe men be to make it way!</l>
+            </lg>
+            <lg>
+               <l>How many Miſcreants wiſh <hi>Ireland</hi> loſt,</l>
+               <l>That ſo thoſe Rebels might my bowels tear!</l>
+               <l>How many deſp'rate Caitiffs have been croſt</l>
+               <l>When they of <hi>Jone's</hi> ſucceſs ſo much did hear!</l>
+            </lg>
+            <lg>
+               <l>Yet ſuch (alas) are harbor'd in my breſt,</l>
+               <l>As, all that in them lies oppoſe my reſt.</l>
+            </lg>
+            <lg>
+               <l>Beſides all theſe, ſome are in Forraign Lands,</l>
+               <l>Improving (queſtionleſs) their pains and art,</l>
+               <l>To bring in Princes with their armed bands,</l>
+               <l>Againſt my children dear to take their part.</l>
+            </lg>
+            <lg>
+               <l>Now judg, if cauſe I have not thus to cry,</l>
+               <l>Seeing ſuch blows, and cannot put them by.</l>
+            </lg>
+            <lg>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">objection. </seg>
+                  </label>
+                  <hi>But ſome may ſay; Malignants now are quel'd:</hi> 
+               </l>
+               <l>
+                  <hi>What need you then ſo ſtrangely ſtill to rave?</hi>
+               </l>
+               <l>
+                  <hi>They'r outed of the places which they held:</hi>
+               </l>
+               <l>
+                  <hi>Many are laid already in their grave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Some are at home diſarm'd, ſome o're Sea gone;</hi>
+               </l>
+               <l>
+                  <hi>And ſcatter'd ſo, that danger can be none.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">anſwer. </seg>
+                  </label> I do confeſs, when mine the Covenant took</l>
+               <l>God own'd them, and their enemies brought down.</l>
+               <l>But much I fear leſt ſome have ſince forſook</l>
+               <l>The Lord, which gave them once ſuch high renown.</l>
+            </lg>
+            <lg>
+               <l>I cannot now ſuch forwardneſs eſpy,</l>
+               <l>As when they firſt engaged mutually.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:161516:3"/>
+               <l>Amongſt the reſt, this was one thing they ſwore;</l>
+               <l>
+                  <hi>[To bring Delinquents to deſerved doom:]</hi>
+               </l>
+               <l>But many that have made it heretofore</l>
+               <l>Their trade to ſlay Gods people, are at home,</l>
+            </lg>
+            <lg>
+               <l>Poſſeſſing much, if not their whole eſtate;</l>
+               <l>And do againſt my children boldly prate.</l>
+            </lg>
+            <lg>
+               <l>Who would beleeve, except he ſaw the ſame,</l>
+               <l>What rabble routs of them do meet together,</l>
+               <l>(And not without ſome arms) to drink and game,</l>
+               <l>And caſt (as may be thought) for change of weather?</l>
+            </lg>
+            <lg>
+               <l>Some ſpeak out-right, and tell my children plain,</l>
+               <l>They hope ere long to rule the roſt again.</l>
+            </lg>
+            <lg>
+               <l>The Lords of miſ-rule in their Coaches ſit,</l>
+               <l>And whirle it through my ſtreets like gallant blades,</l>
+               <l>(For whom the <hi>Tyburn-hurdle</hi> were more fit)</l>
+               <l>Their wives attended with their grooms and maids</l>
+            </lg>
+            <lg>
+               <l>In pompous ſort, as if deſerved prayſe</l>
+               <l>attended on my ſpoylers now adays.</l>
+            </lg>
+            <lg>
+               <l>I dayly ſee the lamentable chear</l>
+               <l>Of well affected Tenants, which have ſpent</l>
+               <l>Much of their means, and loſt their children dear</l>
+               <l>In ſervice of the <hi>King</hi> and <hi>Parliament:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And have been plunder'd to the very quick,</l>
+               <l>Becauſe they to their Covenant did ſtick.</l>
+            </lg>
+            <lg>
+               <l>It was their hope that wicked enemies,</l>
+               <l>When God had brought them down, ſhould rule no more:</l>
+               <l>Who would have thought they ſhould ſo quickly riſe</l>
+               <l>Before the Tragedy was wholly o're:</l>
+            </lg>
+            <lg>
+               <l>And thoſe whom heretofore they ſought to kill</l>
+               <l>Left unſecured to theſe Landlords will?</l>
+            </lg>
+            <lg>
+               <l>Shall theſe Malignant rake-hels make their peace,</l>
+               <l>And (uncontrouled) honeſt men oppreſs?</l>
+               <l>Make poor men wait a leiſure for a leaſe,</l>
+               <l>And pay what they demand, bee't more or leſs?</l>
+            </lg>
+            <lg>
+               <l>Shall they turn widows out, and children ſmall,</l>
+               <l>Whoſe mates and fathers in my cauſe did fall?</l>
+            </lg>
+            <lg>
+               <l>Conſider (worthy <hi>Parliament</hi>) your word</l>
+               <l>Is paſs'd already, that you will protect,</l>
+               <l>And ſave ſuch harmeleſs as ſhall draw the ſword</l>
+               <l>In your juſt quarrel. O, then have reſpect</l>
+            </lg>
+            <lg>
+               <l>To poor mens livelihoods. Let not theſe Bears</l>
+               <l>Be turned looſe, to cauſe more woe and fears.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:161516:3"/>
+               <l>You ſit at <hi>Weſtminſter,</hi> how ſhould you hear</l>
+               <l>The plaints that are in every corner made?</l>
+               <l>You Landlords are your ſelves, and need not fear</l>
+               <l>The things that make the meaner ſort affraid.</l>
+            </lg>
+            <lg>
+               <l>O, let it ner'e be ſaid; <hi>When y'are ſecure,</hi>
+               </l>
+               <l>
+                  <hi>Ye care not what your faithfull friends indure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This is one grievance; but it is not all:</l>
+               <l>My valiant Souldiers ſay they lack their pay,</l>
+               <l>(Though <hi>God before them made their</hi> foes to fall,</l>
+               <l>Which was to maintainance a ready way,)</l>
+            </lg>
+            <lg>
+               <l>Though Propoſition-money with Exciſe</l>
+               <l>Beſides free-quarter, on my ſhoulders lies.</l>
+            </lg>
+            <lg>
+               <l>I ſpeak not only of mine Army now:</l>
+               <l>But alſo ſuch as ſince the wars begun,</l>
+               <l>And ſince have active been. There be I know</l>
+               <l>Full many which theſe wars have quite undone;</l>
+            </lg>
+            <lg>
+               <l>Yet could not get their dearly-earned pay,</l>
+               <l>Till want conſtrain'd them down their arms to la</l>
+            </lg>
+            <lg>
+               <l>Some uſing means to get <hi>debenturs</hi> out,</l>
+               <l>Have ſpent much time and moneys thereupon:</l>
+               <l>And after this ado they ſeem to doubt,</l>
+               <l>Whether it were not full as good t' have none.</l>
+            </lg>
+            <lg>
+               <l>Some wiſh they had not been at ſo much coſt,</l>
+               <l>Suppoſing this as well as th'others loſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*" place="margin">Since the Author writ this fair for the Preſs, he hear<g ref="char:EOLhyphen"/>eth of ſome likelihood that this grievance will be temo<g ref="char:EOLhyphen"/>ved, which if it go on, he is content that theſe three ſtaves be look<g ref="char:EOLhyphen"/>ed on as null.</note>Others complain, that after much expence,</l>
+               <l>They have been called to ſuch ſtrict account</l>
+               <l>Of weeks and days, that under that pretence</l>
+               <l>They have been put by all. This doth amount</l>
+            </lg>
+            <lg>
+               <l>To more then every body will ſuppoſe:</l>
+               <l>For thus theſe men their diſcontents diſcloſe:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>"Is't poſſible that each illit'rate man</hi>
+               </l>
+               <l>
+                  <hi>"(Which yet may be a Souldier true and stout)</hi>
+               </l>
+               <l>
+                  <hi>"Is't like</hi> (ſay they) <hi>that ſuch a perſon can</hi>
+               </l>
+               <l>
+                  <hi>"For three or four years space, without all doubt,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>"Know when he ſerv'd, and when not, to a day?</hi>
+               </l>
+               <l>
+                  <hi>"Muſt he that herein faileth loſe his pay?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>"Had we been weekly on yet monethly paid,</hi>
+               </l>
+               <l>
+                  <hi>"There had not needed now ſo much ado:</hi>
+               </l>
+               <l>
+                  <hi>"But now it having been ſo long delayd,</hi>
+               </l>
+               <l>
+                  <hi>"They lay on us the blame and damage too.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>"Sure they which ſhould, and did not pay us ought,</hi>
+               </l>
+               <l>
+                  <hi>"To keep true reckoning, though they gave us nought.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:161516:4"/>
+               <l>'Tis ſtrange to many, that Malignants come,</l>
+               <l>When they have done all th'miſchief that they could,</l>
+               <l>And buy their peace for little, live at home</l>
+               <l>Of perſons whom they plunder'd uncontrol'd;</l>
+            </lg>
+            <lg>
+               <l>Yet publike debts for want unſatisfi'd;</l>
+               <l>The common people think there's ſomething wide.</l>
+            </lg>
+            <lg>
+               <l>I fear my ſiſter <hi>Ireland</hi> wanteth aid,</l>
+               <l>Which I could well afford her, were it not</l>
+               <l>That my diviſions make my ſons affraid,</l>
+               <l>And queſtion what ſhall be my future lot.</l>
+            </lg>
+            <lg>
+               <l>Alas! this is my grief if down I go,</l>
+               <l>It is my ſelf, my ſelf that overthrow.</l>
+            </lg>
+            <lg>
+               <l>How is it (noble <hi>Army</hi>) that your ſtrength</l>
+               <l>Which was my guard, and terror of my foes,</l>
+               <l>Is judg'd (how truly I'l not ſay, at length,</l>
+               <l>Time will the truth of hidden things diſcloſe)</l>
+            </lg>
+            <lg>
+               <l>To lay theſe heavy burdens on my back,</l>
+               <l>While bleeding <hi>Ireland</hi> doth your ſuccour lack?</l>
+            </lg>
+            <lg>
+               <l>Great talk is moved, (as you well may judg)</l>
+               <l>By th' ſeizing on, and flitting of the <hi>King,</hi>
+               </l>
+               <l>And other your deportment. Cauſe no grudg</l>
+               <l>By undertaking raſhly any thing.</l>
+            </lg>
+            <lg>
+               <l>I hope you will not: yet t' abandon fear,</l>
+               <l>Let all men know you are the men you were.</l>
+            </lg>
+            <lg>
+               <l>When things were calm and peaceable within,</l>
+               <l>I little car'd what dangers were without:</l>
+               <l>Could I perſwade my children t' puniſh ſin,</l>
+               <l>And live in Unity, I would not doubt.</l>
+            </lg>
+            <lg>
+               <l>I durſt bid all mine enemies do their worſt;</l>
+               <l>Though <hi>Turke</hi> invaded me, and <hi>Pope</hi> me curſt.</l>
+            </lg>
+            <lg>
+               <l>But here's my grief; my ſons legitimate,</l>
+               <l>Not only from the baſtard brood divide:</l>
+               <l>But alſo 'mongſt themſelves do ſeparate,</l>
+               <l>And into many parts and factions ſide.</l>
+            </lg>
+            <lg>
+               <l>One ſtands for this; another pleads for that:</l>
+               <l>A third's as zealous for he knows not what.</l>
+            </lg>
+            <lg>
+               <l>The Saints under the Biſhops tyrannie,</l>
+               <l>I or pray'r and conference did often meet:</l>
+               <l>(Though perſecuted for't) this harmonie</l>
+               <l>Was evermore accounted to be ſweet.</l>
+            </lg>
+            <lg>
+               <l>Yea in the hotteſt ſeaſons of the War,</l>
+               <l>There was more love and unitie by far.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:161516:4"/>
+               <l>Amongſt profeſſors there's ſuch ſtrangeneſs grown,</l>
+               <l>As almoſt is incredible to hear;</l>
+               <l>One Chriſtian now will ſcarce another own,</l>
+               <l>(Except it be to back-bite and to tear;)</l>
+            </lg>
+            <lg>
+               <l>If there be any matter of diſſent</l>
+               <l>Betwixt them, in the point of Government.</l>
+            </lg>
+            <lg>
+               <l>One praiſeth much the <hi>Preſbyteriall</hi> way,</l>
+               <l>Another likes the <hi>Congregationall:</hi>
+               </l>
+               <l>But both of them perſwaded (as they ſay)</l>
+               <l>That their's muſt ſtand, and th'other needs muſt fall:</l>
+            </lg>
+            <lg>
+               <l>And ſcarcely will they hear each other ſpeak,</l>
+               <l>Which were the way to rectifie th' miſtake.</l>
+            </lg>
+            <lg>
+               <l>Doth any of you bear ſuch high conceits,</l>
+               <l>That all you hold and, nothing elſe, is ſound?</l>
+               <l>The crafty Serpent many hundreds cheats,</l>
+               <l>When as they think they build on ſtable ground.</l>
+            </lg>
+            <lg>
+               <l>If that your hearts would ſuffer you, ye might</l>
+               <l>Lend to, and borrow from each other light.</l>
+            </lg>
+            <lg>
+               <l>O meet and pray together now again;</l>
+               <l>And ſtudy how t' inform and edify:</l>
+               <l>Be not aſham'd to throw by what is vain,</l>
+               <l>Seeking the truth, and not the maſtery.</l>
+            </lg>
+            <lg>
+               <l>In things indifferent bear with one another,</l>
+               <l>Offend not any (though the weakeſt) brother.</l>
+            </lg>
+            <lg>
+               <l>Conſider well the dangerous deſigns</l>
+               <l>That wicked men are driving all this while;</l>
+               <l>He that to any wretched Sect inclines,</l>
+               <l>Hopes to have freedom for it in your Iſle:</l>
+            </lg>
+            <lg>
+               <l>What manner of opinion is ſo baſe;</l>
+               <l>That in my boſom hopes not for a place?</l>
+            </lg>
+            <lg>
+               <l>Some ſay the Scriptures are no more Gods Word,</l>
+               <l>Then that which any holy man doth ſpeak;</l>
+               <l>Some look for Revelations from the Lord,</l>
+               <l>And all the written word do quite forſake.</l>
+            </lg>
+            <lg>
+               <l>Some dare to write againſt the Holy Ghoſt;</l>
+               <l>And now he's famous that blaſphemeth moſt.</l>
+            </lg>
+            <lg>
+               <l>Others deſpiſe the holy Trinity:</l>
+               <l>And dare to call it a three-headed Cat;</l>
+               <l>Some ſay the ſoul doth with the body dye,</l>
+               <l>The Seekers are not yet reſolved, what</l>
+            </lg>
+            <lg>
+               <l>To pitch upon: all their Religion now</l>
+               <l>Is that God muſt be ſerv'd, but none knows how.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:161516:5"/>
+               <l>Theſe vile opinions, and a great deal more,</l>
+               <l>Which are too ſurely known to grow in me,</l>
+               <l>Might have been plucked up (as once ye ſwore</l>
+               <l>In general all Hereſies ſhould be:)</l>
+            </lg>
+            <lg>
+               <l>Had you together ſtuck as brethren true,</l>
+               <l>Since God ſubdu'd your en'mies under you,</l>
+            </lg>
+            <lg>
+               <l>But now they crake, and talk of toleration;</l>
+               <l>Yet hope I (children) you'l not be ſo baſe,</l>
+               <l>To ſuffer ſuch in quiet in your Nation,</l>
+               <l>As do revile your God unto your face.</l>
+            </lg>
+            <lg>
+               <l>Let none eſcape unpuniſhed, (for ſhame)</l>
+               <l>That raileth on the Lords moſt holy name.</l>
+            </lg>
+            <lg>
+               <l>The rabble of ungodly and prophane</l>
+               <l>Rejoyce to ſee your jars, and fallings out:</l>
+               <l>For thus it comes to paſs, no courſe is ta'ne,</l>
+               <l>To bring them to their knees that are ſo ſtout.</l>
+            </lg>
+            <lg>
+               <l>Yea thoſe whom you might by due cenſure win,</l>
+               <l>Through your default may harden in their ſin.</l>
+            </lg>
+            <lg>
+               <l>Take heed of laying ſtumbling-blocks i'th' way</l>
+               <l>Of ſilly Papiſts, whom ye may offend;</l>
+               <l>When they ſhall ſee you one from other ſtray,</l>
+               <l>And all your fellowſhip in pieces rend.</l>
+            </lg>
+            <lg>
+               <l>Surely 'tis pittiful, if whileſt ye ſtrive,</l>
+               <l>You any further from the truth ſhall drive.</l>
+            </lg>
+            <lg>
+               <l>In brief: If you regard <hi>Jehovah's</hi> praiſe,</l>
+               <l>Your own true joy, or tottering Kingdoms peace;</l>
+               <l>If ye the Hereſies of theſe ſad days,</l>
+               <l>And open wickedneſs would have to ceaſe;</l>
+            </lg>
+            <lg>
+               <l>If you of others ſins would not partake;</l>
+               <l>An end of your diviſions ſeek to make.</l>
+            </lg>
+            <lg>
+               <l>There be ſome other things might be declar'd:</l>
+               <l>But theſe are principall, and moſt oppreſt</l>
+               <l>My weary heart. And if that due regard</l>
+               <l>Be had to theſe, I ſhall unfold the reſt:</l>
+            </lg>
+            <lg>
+               <l>Till when, and ever, I beſeech you pray,</l>
+               <l>That God may take all grounds of fear away.</l>
+            </lg>
+            <closer>
+               <signed>A. R.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock.</hi> 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
